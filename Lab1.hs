@@ -71,7 +71,7 @@ mpampis m n n1
   	   = (m )^n1 + mpampis (m + 1 ) n n1
 -------------------------------------------------------------------------------------
 
---askisi 3 den prolaveno na to kano etsi
+--askisi 3 ennalaktiki lisi
 {-search :: Integer->Integer->Integer->Integer     
 
 search a k m 
